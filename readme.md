@@ -15,6 +15,13 @@ Download the files into a directory of your liking and click on the index.html f
 
 In the future I will use the data from the local NJ Transit API to track real buses in NJ by choosing the bus line and tracking that line on the bus.
 
+### Other Repos
+
+| Repo           | Page                                       |
+| -------------- | ------------------------------------------ |
+| Eyes           | [https://jfernandez0524.github.io/eyes/]   |
+| PacMen Factory | [https://jfernandez0524.github.io/pacMen/] |
+
 ## License
 
 MIT License
