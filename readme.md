@@ -1,3 +1,22 @@
+# Real Time Bus Tracker
+
+<img src="busTracker.png" width="300">
+
+## Description
+
+This project tracks the bus stops between the MIT campus and the Harvard Campus.
+
+## Installation
+
+Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice. Click on the Show Stops Between MIT and Harvard button to see the stops between the two campus.
+<a href="https://jfernandez0524.github.io/busTracker/">View Repo Here</a>
+
+### Future Improvements
+
+In the future I will use the data from the local NJ Transit API to track real buses in NJ by choosing the bus line and tracking that line on the bus.
+
+## License
+
 MIT License
 
 Copyright (c) 2022 JFernandez0524
