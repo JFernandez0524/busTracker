@@ -9,7 +9,8 @@ This project tracks the bus stops between the MIT campus and the Harvard Campus.
 ## Installation
 
 Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice. Click on the Show Stops Between MIT and Harvard button to see the stops between the two campus.
-<a href="https://jfernandez0524.github.io/busTracker/">View Repo Here</a>
+<a href="https://jfernandez0524.github.io/busTracker/" target="\_blank">
+View Repo Here</a>
 
 ### Future Improvements
 
