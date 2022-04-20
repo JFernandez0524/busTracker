@@ -4,7 +4,7 @@
 
 ## Description
 
-This project tracks the bus stops between the MIT campus and the Harvard Campus.
+This simple project displays the bus stops between MIT and Harvard Campus.
 
 ## Installation
 
