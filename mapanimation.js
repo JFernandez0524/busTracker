@@ -21,10 +21,13 @@ mapboxgl.accessToken =
 // This is the map instance
 let map = new mapboxgl.Map({
   container: 'map',
-  style: 'mapbox://styles/mapbox/streets-v11',
+  style: 'mapbox://styles/mapbox/satellite-streets-v11',
   center: [-71.104081, 42.365554],
   zoom: 14,
 });
+
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
 
 // TODO: add a marker to the map at the first coordinates in the array busStops. The marker variable should be named "marker"
 const marker = new mapboxgl.Marker().setLngLat(busStops[0]).addTo(map);
